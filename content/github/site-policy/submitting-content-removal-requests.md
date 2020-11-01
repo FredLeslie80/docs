@@ -20,3 +20,5 @@ The GitHub Trademark Policy can be used to report content that appears to use yo
 
 ### [GitHub Sensitive Data Removal Policy](/articles/github-sensitive-data-removal-policy)
 The GitHub Sensitive Data Removal Policy can be used to report data that is sensitive or confidential and poses a security risk, but that is not necessarily protected by copyright or trademark.
+docs/content/github/site-policy/submitting-content-removal-requests.md
+http://open-source-parsers.github.io/jsoncpp-docs/
